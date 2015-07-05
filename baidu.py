@@ -40,7 +40,7 @@ get_song_list_url = 'http://music.baidu.com/data/user/getsongs?start={}&ting_uid
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 UBrowser/5.1.1591.57 Safari/537.36',
-    'Cookie':'BAIDUID=F913F1630F07C4E7C93BD5945D4BEAB2:FG=1; BDUSS=0Z4TW0wbWxkLUo3aWMyTS1TYTIxeWpHUWQwZTU1RmxkYjhGNFYwZG5qbjNxN1JWQVFBQUFBJCQAAAAAAAAAAAEAAAAFOLwJZHl3NTY0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPcejVX3Ho1VM; Hm_lvt_d0ad46e4afeacf34cd12de4c9b553aa6=1435150270,1435214455,1435215745,1435222067; Hm_lpvt_d0ad46e4afeacf34cd12de4c9b553aa6=1435311866; tracesrc=-1%7C%7C-1; u_lo=0; u_id=; u_t=; batch=1; u_vip=1; TOPMSG=1435311866-0'
+    'Cookie':'BDUSS=0Z4TW0wbWxkLUo3aWMyTS1TYTIxeWpHUWQwZTU1RmxkYjhGNFYwZG5qbjNxN1JWQVFBQUFBJCQAAAAAAAAAAAEAAAAFOLwJZHl3NTY0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPcejVX3Ho1VM; PSTM=1435316128; BIDUPSID=78B6837AAE38FF3BB8704DA450D41DF1; BAIDUID=985DAB4F3DF60FB5208658BD6562E2B7:FG=1; TOPMSG=1436082389-0; BDRCVFR[kJlVbOKdoAC]=mk3SLVN4HKm; H_PS_PSSID=13834_16061_1443_12658_16030_10813_12868_16166_14871_16211_11595_13932_13768_15964; Hm_lvt_d0ad46e4afeacf34cd12de4c9b553aa6=1435150270,1435214455,1435215745,1435222067; Hm_lpvt_d0ad46e4afeacf34cd12de4c9b553aa6=1436088307; tracesrc=-1%7C%7C-1; u_lo=0; u_id=; u_t=; batch=1; u_vip=1'
 }
 
 
@@ -56,7 +56,7 @@ class BaiduMusic(object):
 
     def get_html_body(self, url, method='GET', headers=''):
         try:
-            res = self.client.fetch(url, method, headers=headers)
+            res = self.client.fetch(url, method=method, headers=headers)
             http_log.write('lohas_t_baidu_0:\t{}\n\t{}\n'.format(datetime.datetime.today(), url))
             return res.body
         except Exception as e:
@@ -95,11 +95,14 @@ class BaiduMusic(object):
         if body is None:
             return None
         try:
-            return re.findall(re_down, body)[0]
+            down_url = re.findall(re_down, body)[0]
+            artist_name = re.findall(re_artist_name, body)[0]
+            song_name = re.findall(re_song_name, body)[0]
+            return down_url, artist_name, song_name
         except IndexError as e:
             re_err.write('lohas_t_baidu_003:\t{}\n\t{}\n\t{}\n\n'.format(datetime.datetime.today(),
                                                                          DOWNLOAD.format(song), e))
-            return None
+            return None, None, None
 
     def get_lrc_url(self, song):
         body = self.get_html_body(SONG.format(song))
