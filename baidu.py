@@ -54,7 +54,7 @@ class BaiduMusic(object):
             self.url = url
         self.client = HTTPClient()
 
-    def get_html_body(self, url, method='GET', headers=''):
+    def get_html_body(self, url, method='GET', headers=None):
         try:
             res = self.client.fetch(url, method=method, headers=headers)
             http_log.write('lohas_t_baidu_0:\t{}\n\t{}\n'.format(datetime.datetime.today(), url))
@@ -91,7 +91,7 @@ class BaiduMusic(object):
         return list(set(re.findall(re_song, res.get('data').get('html'))))
 
     def get_download_url(self, song):
-        body = self.get_html_body(DOWNLOAD.format(song))
+        body = self.get_html_body(DOWNLOAD.format(song), headers=HEADERS)
         if body is None:
             return None
         try:

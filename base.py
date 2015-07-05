@@ -31,8 +31,8 @@ for artist in artist_list:
         for song in song_list:
             down_url, artist_name, song_name = baidu.get_download_url(song)
             lrc_url = baidu.get_lrc_url(song)
-            record.write('{}\t{}\t{}\t{}\n'.format(song_name, artist_name, down_url, lrc_url))
-            b = Baidu(name=song_name, singer=artist_name, url=down_url, lrc=lrc_url)
+            record.write('{}\t{}\t{}\t{}\n'.format(song_name.decode('utf8'), artist_name.decode('utf8'), down_url, lrc_url))
+            b = Baidu(name=song_name.decode('utf8'), singer=artist_name.decode('utf8'), url=down_url, lrc=lrc_url)
             session.add(b)
         start += 25
     try:
