@@ -19,11 +19,11 @@ re_song_name = r'<a target="_blank" title="(.+?)" class="song-link-hook" href'
 re_artist_name = r'target = "_blank"hidefocus="true" href="/artist/\d+">(.+?)</a>'
 re_song_num = r'<a class="list" hidefocus="true" href="#">歌曲\((\d+?)\)</a>'
 
-log = open('./spider.log', 'a+')
-record = open('./record.txt', 'a+')
-http_log = open('http.log', 'a+')
-error = open('error.log', 'a+')
-re_err = open('re_err.log', 'a+')
+log = open('./log/spider.log', 'a+')
+record = open('./log/record.txt', 'a+')
+http_log = open('log/http.log', 'a+')
+error = open('log/error.log', 'a+')
+re_err = open('log/re_err.log', 'a+')
 
 
 base = 'http://music.baidu.com'

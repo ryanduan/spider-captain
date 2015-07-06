@@ -71,6 +71,22 @@ url_file_list = [
     (other, other_txt),
 ]
 
+url_dict = {
+    'cn_male': (cn_male, cn_male_txt),
+    'cn_female': (cn_female, cn_female_txt),
+    'cn_group': (cn_group, cn_group_txt),
+    'wt_male': (wt_male, wt_male_txt),
+    'wt_female': (wt_female, wt_female_txt),
+    'wt_group': (wt_group, wt_group_txt),
+    'kr_male': (kr_male, kr_male_txt),
+    'kr_female': (kr_female, kr_female_txt),
+    'kr_group': (kr_group, kr_group_txt),
+    'jp_male': (jp_male, jp_male_txt),
+    'jp_female': (jp_female, jp_female_txt),
+    'jp_group': (jp_group, jp_group_txt),
+    'other': (other, other_txt),
+}
+
 if __name__ == '__main__':
     for url, filename in url_file_list:
         baidu = BaiduMusic(url)

@@ -27,11 +27,22 @@ media_uri = '{}://{}:{}@{}/{}?charset=utf8'.format(
     db_type, db_user, db_password, db_host, media)
 media_engine = create_engine(media_uri, encoding='utf8')
 connect = media_engine.connect()
-engine = create_engine(db_uri, echo=True, encoding='utf8')
+engine = create_engine(db_uri, encoding='utf8')
 session = Session(bind=engine)
 
 
 class Baidu(Base):
+    __tablename__ = 'baidu_music_new'
+
+    bid = Column(Integer, primary_key=True)
+    name = Column(String(200))
+    singer = Column(String(100))
+    url = Column(String(300))
+    lrc = Column(String(300))
+    create_at = Column(Integer, default=lambda: int(time.time()))
+
+
+class BaiduBakup(Base):
     __tablename__ = 'baidu_music'
 
     bid = Column(Integer, primary_key=True)
