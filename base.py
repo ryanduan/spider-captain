@@ -22,6 +22,7 @@ sql_err = open('log/sql_err.log', 'a+')
 record = open('record/{}'.format(txt), 'a+')
 log = open('log/{}'.format(txt), 'a+')
 art = open('artist/{}'.format(txt), 'a+')
+down = open('down/{}'.format(txt), 'a+')
 init_schema()
 
 baidu = BaiduMusic(url)
@@ -39,9 +40,13 @@ for artist in artist_list:
         song_list = baidu.get_song_list(artist, start)
         for song in song_list:
             down_url, artist_name, song_name = baidu.get_download_url(song)
-            lrc_url = 'http://music.baidu.com' + baidu.get_lrc_url(song)
-            if not down_url.startswith('http://yinyueshiting.baidu.com'):
+            try:
+                lrc_url = 'http://music.baidu.com' + baidu.get_lrc_url(song)
+            except:
+                lrc_url = ''
+            if not down_url or not down_url.startswith('http://yinyueshiting.baidu.com'):
                 continue
+            down.write('{}\n{}\n'.format(down_url, lrc_url))
             try:
                 record.write('{}\t{}\t{}\t{}\n'.format(song_name, artist_name, down_url, lrc_url))
                 b = Baidu(name=song_name.decode('utf8'), singer=artist_name.decode('utf8'), url=down_url, lrc=lrc_url)
