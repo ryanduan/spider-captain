@@ -1,0 +1,284 @@
+Blacklist	LE	http://yinyueshiting.baidu.com/data2/music/121952793/121927660187200320.mp3?xcode=9f12c6193c4451e0c7d4e558c0a93524&amp;song_id=121927660	http://music.baidu.com/data2/lrc/121952755/121952755.lrc
+Good Bye	米娜	http://yinyueshiting.baidu.com/data2/music/27834225/18615306237600320.mp3?xcode=9f12c6193c4451e0bd5cc648288db746&amp;song_id=18615306	http://music.baidu.com/data2/lrc/68082772/68082772.lrc
+狐狸精	米娜	http://yinyueshiting.baidu.com/data2/music/123850785/43755850400320.mp3?xcode=9f12c6193c4451e0c85f964b2abbb8a2&amp;song_id=437558	http://music.baidu.com/data2/lrc/238470784/238470784.lrc
+一步 (한 걸음)	朴志胤	http://yinyueshiting.baidu.com/data2/music/122146674/121370095198000320.mp3?xcode=f8ec2a5a8d1764d8d7984b79751f9d39&amp;song_id=121370095	http://music.baidu.com/data2/lrc/122146665/122146665.lrc
+Yoo Hoo (유후)	朴志胤	http://yinyueshiting.baidu.com/data2/music/122146669/121370079140400320.mp3?xcode=f8ec2a5a8d1764d84394f800f7f2550e&amp;song_id=121370079	http://music.baidu.com/data2/lrc/122146658/122146658.lrc
+赞了	裴涩琪	http://yinyueshiting.baidu.com/data2/music/127514474/127514408115200320.mp3?xcode=f8ec2a5a8d1764d82c25efac0ddd93cf&amp;song_id=127514408	http://music.baidu.com/data2/lrc/127514468/127514468.lrc
+傻瓜 (바보)(With 정용화-CNBLUE))	Juniel	http://yinyueshiting.baidu.com/data2/music/118253324/18601527140400320.mp3?xcode=f8ec2a5a8d1764d82e999d51bc758b81&amp;song_id=18601527	http://music.baidu.com/data2/lrc/70387391/70387391.lrc
+Bug Off!	Juniel	http://yinyueshiting.baidu.com/data2/music/123656827/123656819212400320.mp3?xcode=f8ec2a5a8d1764d896a2d3f13bf86a03&amp;song_id=123656819	http://music.baidu.com/data2/lrc/241627761/241627761.lrc
+Please	Juniel	http://yinyueshiting.baidu.com/data2/music/123656837/123656821219600320.mp3?xcode=f8ec2a5a8d1764d8e61345ed80ef9cd2&amp;song_id=123656821	http://music.baidu.com/data2/lrc/241627788/241627788.lrc
+Everlasting Sunset	Juniel	http://yinyueshiting.baidu.com/data2/music/118253405/18600580100800320.mp3?xcode=f8ec2a5a8d1764d8b169a51e193c0fa9&amp;song_id=18600580	http://music.baidu.com/data2/lrc/120043304/120043304.lrc
+恋爱了吧 (연애하나 봐)	Juniel	http://yinyueshiting.baidu.com/data2/music/123658882/123656814194400320.mp3?xcode=f8ec2a5a8d1764d86a37d80a2c02fc5b&amp;song_id=123656814	http://music.baidu.com/data2/lrc/241627721/241627721.lrc
+Mask (가면)	Juniel	http://yinyueshiting.baidu.com/data2/music/118253369/18601093133200320.mp3?xcode=f8ec2a5a8d1764d81e0a87f01dbb9fb5&amp;song_id=18601093	http://music.baidu.com/data2/lrc/70428508/70428508.lrc
+依然炙热 (inst.)(여전히 뜨겁게)	白智英	http://yinyueshiting.baidu.com/data2/music/120082216/12008212782800320.mp3?xcode=f8ec2a5a8d1764d8c9bf3d409e407d1c&amp;song_id=120082127	
+Gare De Lyon	Barbara	http://yinyueshiting.baidu.com/data2/music/119233125/11923151879200320.mp3?xcode=f8ec2a5a8d1764d88c3c42cb27c397d9&amp;song_id=119231518	
+Chapeau Bas	Barbara	http://yinyueshiting.baidu.com/data2/music/119233481/119231564244800320.mp3?xcode=f8ec2a5a8d1764d82a1779a2a81a9c08&amp;song_id=119231564	
+Nantes	Barbara	http://yinyueshiting.baidu.com/data2/music/119233220/119231529118800320.mp3?xcode=f8ec2a5a8d1764d83cbb1604e4436b22&amp;song_id=119231529	
+Paris 15 Aout	Barbara	http://yinyueshiting.baidu.com/data2/music/119233562/11923157421600320.mp3?xcode=f8ec2a5a8d1764d8180b9e6dd2675aac&amp;song_id=119231574	
+Bref	Barbara	http://yinyueshiting.baidu.com/data2/music/119233665/11923158457600320.mp3?xcode=f8ec2a5a8d1764d8223d24c5de246011&amp;song_id=119231584	
+Ni Belle Ni Bonne	Barbara	http://yinyueshiting.baidu.com/data2/music/119233833/11923166279200320.mp3?xcode=f8ec2a5a8d1764d805ffee87c3adb48c&amp;song_id=119231662	
+Au Bois De Saint-Amand	Barbara	http://yinyueshiting.baidu.com/data2/music/119232643/119231487226800320.mp3?xcode=f8ec2a5a8d1764d885429371225e2601&amp;song_id=119231487	
+Le Bel Age	Barbara	http://yinyueshiting.baidu.com/data2/music/119232368/119231468158400320.mp3?xcode=f8ec2a5a8d1764d808a65907a49a17b0&amp;song_id=119231468	
+Je Ne Sais Pas Dire	Barbara	http://yinyueshiting.baidu.com/data2/music/119232913/119231493248400320.mp3?xcode=f8ec2a5a8d1764d808a65907a49a17b0&amp;song_id=119231493	
+A Mourir Pour Mourir	Barbara	http://yinyueshiting.baidu.com/data2/music/119231856/119231418237600320.mp3?xcode=f8ec2a5a8d1764d838b319dd5c3c046e&amp;song_id=119231418	
+Pierre	Barbara	http://yinyueshiting.baidu.com/data2/music/119232140/11923144264800320.mp3?xcode=f8ec2a5a8d1764d837ff48ca31f559c2&amp;song_id=119231442	
+Sans Bagages	Barbara	http://yinyueshiting.baidu.com/data2/music/119233747/119231603126000320.mp3?xcode=f8ec2a5a8d1764d86b73a0f684021956&amp;song_id=119231603	
+心动主义 (설렘주의)	NS允智	http://yinyueshiting.baidu.com/data2/music/123377923/1233779067200320.mp3?xcode=f8ec2a5a8d1764d8b123be2e4a685e68&amp;song_id=123377906	http://music.baidu.com/data2/lrc/123378332/123378332.lrc
+心动主义 (설렘주의)(Inst.)	NS允智	http://yinyueshiting.baidu.com/data2/music/123377922/12337791850400320.mp3?xcode=f8ec2a5a8d1764d8d1823dca873f4874&amp;song_id=123377918	
+旧时光 (卡特琳娜吉他版)	Sara	http://yinyueshiting.baidu.com/data2/music/121368757/121367929176400320.mp3?xcode=f8ec2a5a8d1764d826bdb4a8ac0cec0f&amp;song_id=121367929	http://music.baidu.com/data2/lrc/121368738/121368738.lrc
+旧时光	Sara	http://yinyueshiting.baidu.com/data2/music/121368786/121360423111600320.mp3?xcode=f8ec2a5a8d1764d8b4504f1dc3711450&amp;song_id=121360423	http://music.baidu.com/data2/lrc/121368560/121368560.lrc
+曙光	Sara	http://yinyueshiting.baidu.com/data2/music/134607085/13460524679200320.mp3?xcode=f8ec2a5a8d1764d8f1962d1d1690fc93&amp;song_id=134605246	http://music.baidu.com/data2/lrc/134605258/134605258.lrc
+爱很美	Sara	http://yinyueshiting.baidu.com/data2/music/134377898/5835070165600320.mp3?xcode=f8ec2a5a8d1764d884b505fb6b038464&amp;song_id=5835070	http://music.baidu.com/data2/lrc/69867569/69867569.lrc
+即使知道要见面	Sara	http://yinyueshiting.baidu.com/data2/music/128302113/12946643126000320.mp3?xcode=f8ec2a5a8d1764d80e36f2067d58dcad&amp;song_id=12946643	http://music.baidu.com/data2/lrc/13824768/13824768.lrc
+第二次人生	Sara	http://yinyueshiting.baidu.com/data2/music/125594070/12559334918000320.mp3?xcode=f8ec2a5a8d1764d87ed60eb536e08c87&amp;song_id=125593349	http://music.baidu.com/data2/lrc/125593347/125593347.lrc
+第二次人生	Sara	http://yinyueshiting.baidu.com/data2/music/124791849/124791829219600320.mp3?xcode=f8ec2a5a8d1764d88e84979b09d702df&amp;song_id=124791829	http://music.baidu.com/data2/lrc/124825260/124825260.lrc
+微小的失落	Sara	http://yinyueshiting.baidu.com/data2/music/131791689/131790930151200320.mp3?xcode=f8ec2a5a8d1764d8f5d44a3a1acfff98&amp;song_id=131790930	http://music.baidu.com/data2/lrc/131790933/131790933.lrc
+微小的失落	Sara	http://yinyueshiting.baidu.com/data2/music/130814569/13081399821600320.mp3?xcode=f8ec2a5a8d1764d859dc68219d22c373&amp;song_id=130813998	http://music.baidu.com/data2/lrc/130814000/130814000.lrc
+Alkava myrsky	Sara	http://yinyueshiting.baidu.com/data2/music/27684256/27684254136800320.mp3?xcode=f8ec2a5a8d1764d885f6fb12ebde0b01&amp;song_id=27684254	
+Come To Me	Sara	http://yinyueshiting.baidu.com/data2/music/3291703/2794709104400320.mp3?xcode=f8ec2a5a8d1764d8c70098e904ce32a9&amp;song_id=2794709	http://music.baidu.com/data2/lrc/12677662/12677662.lrc
+讨厌夜晚 (밤이 싫어요)	全孝盛	http://yinyueshiting.baidu.com/data2/music/119812591/119776227183600320.mp3?xcode=f8ec2a5a8d1764d8cc3224dc97e4d7a9&amp;song_id=119776227	http://music.baidu.com/data2/lrc/119812583/119812583.lrc
+不懂女人 (여자를 몰라)(feat. 제이켠)	全孝盛	http://yinyueshiting.baidu.com/data2/music/119812534/11977612782800320.mp3?xcode=f8ec2a5a8d1764d85fa4084c7da1aa86&amp;song_id=119776127	http://music.baidu.com/data2/lrc/119812514/119812514.lrc
+8dayz (feat. 용준형 Of Beast)	Megan Lee	http://yinyueshiting.baidu.com/data2/music/119823144/119822889205200320.mp3?xcode=f8ec2a5a8d1764d80c0d8753917afb85&amp;song_id=119822889	http://music.baidu.com/data2/lrc/120864972/120864972.lrc
+Ready For Love	Megan Lee	http://yinyueshiting.baidu.com/data2/music/122146065/122145940100800320.mp3?xcode=f8ec2a5a8d1764d8b74cd3784244547c&amp;song_id=122145940	http://music.baidu.com/data2/lrc/122146052/122146052.lrc
+8dayz (English ver.)	Megan Lee	http://yinyueshiting.baidu.com/data2/music/119822974/119822932100800320.mp3?xcode=f8ec2a5a8d1764d8e9c5304b21fec782&amp;song_id=119822932	
+18 Years	启明星	http://yinyueshiting.baidu.com/data2/music/121136365/121100384201600320.mp3?xcode=f8ec2a5a8d1764d89614b4474386abae&amp;song_id=121100384	http://music.baidu.com/data2/lrc/121136277/121136277.lrc
+Woo Baby	启明星	http://yinyueshiting.baidu.com/data2/music/135524025/135523510252000320.mp3?xcode=f8ec2a5a8d1764d826d7084657a59bf4&amp;song_id=135523510	
+这样好的日子 (이렇게 좋은 날)(Inst.)	全慧媛	http://yinyueshiting.baidu.com/data2/music/242225739/12110136086400320.mp3?xcode=f8ec2a5a8d1764d839ce60c9b3abe9ef&amp;song_id=121101360	
+这样好的日子 (이렇게 좋은 날)	全慧媛	http://yinyueshiting.baidu.com/data2/music/121101384/1211013360320.mp3?xcode=f8ec2a5a8d1764d8ed47f60d337fa3fd&amp;song_id=121101336	http://music.baidu.com/data2/lrc/242225539/242225539.lrc
+这样好的日子 (이렇게 좋은 날)	全慧媛	http://yinyueshiting.baidu.com/data2/music/242226342/2422262880320.mp3?xcode=f8ec2a5a8d1764d831189f16455400eb&amp;song_id=242226288	http://music.baidu.com/data2/lrc/242226290/242226290.lrc
+你和我 (니가 내가)(Inst.)	方敏雅	http://yinyueshiting.baidu.com/data2/music/242225584/121101961176400320.mp3?xcode=f8ec2a5a8d1764d8e977ca24e3730051&amp;song_id=121101961	
+你和我 (니가 내가)	方敏雅	http://yinyueshiting.baidu.com/data2/music/242226386/242226330151200320.mp3?xcode=f8ec2a5a8d1764d8d1fcd5f6c50b1ab0&amp;song_id=242226330	http://music.baidu.com/data2/lrc/242226332/242226332.lrc
+你和我 (니가 내가)	方敏雅	http://yinyueshiting.baidu.com/data2/music/238495042/12110191821600320.mp3?xcode=f8ec2a5a8d1764d80c486914f0acd7b6&amp;song_id=121101918	http://music.baidu.com/data2/lrc/242225470/242225470.lrc
+也许我 (Inst.)(어쩌면 난)	金栽经	http://yinyueshiting.baidu.com/data2/music/121136501/12112461168400320.mp3?xcode=f8ec2a5a8d1764d8bd5cc648288db746&amp;song_id=121124611	
+也许我 (어쩌면 난)	金栽经	http://yinyueshiting.baidu.com/data2/music/121136455/121124577205200320.mp3?xcode=f8ec2a5a8d1764d8554bf4edd997f8d2&amp;song_id=121124577	http://music.baidu.com/data2/lrc/121136445/121136445.lrc
+雨别 (비별)(Good Bye Rain)	全敏珠	http://yinyueshiting.baidu.com/data2/music/121525398/12152535746800320.mp3?xcode=09b1aa925f8278b986c86b4d2d72cc37&amp;song_id=121525357	http://music.baidu.com/data2/lrc/121525313/121525313.lrc
+雨别 (Inst.)(비별)(Good Bye Rain)	全敏珠	http://yinyueshiting.baidu.com/data2/music/121525416/12152537197200320.mp3?xcode=09b1aa925f8278b984da5601d869449c&amp;song_id=121525371	
+영 (Zero)	金甫娥	http://yinyueshiting.baidu.com/data2/music/242082607/24208253197200320.mp3?xcode=09b1aa925f8278b952d17b2d9b423fd1&amp;song_id=242082531	http://music.baidu.com/data2/lrc/242082532/242082532.lrc
+Pray (Female Ver.)	Jooyi	http://yinyueshiting.baidu.com/data2/music/123765217/123764731154800320.mp3?xcode=09b1aa925f8278b9aca186416cbdae39&amp;song_id=123764731	http://music.baidu.com/data2/lrc/123811985/123811985.lrc
+Pray (Female Ver.)	Jooyi	http://yinyueshiting.baidu.com/data2/music/124478080/124477531154800320.mp3?xcode=09b1aa925f8278b90fd1a9e14bd081d7&amp;song_id=124477531	http://music.baidu.com/data2/lrc/124478059/124478059.lrc
+相爱也没关系吗 (사랑해도 괜찮을까)	李时文	http://yinyueshiting.baidu.com/data2/music/124238236/124237051154800320.mp3?xcode=09b1aa925f8278b9b50a78e8b32aeef1&amp;song_id=124237051	http://music.baidu.com/data2/lrc/124238234/124238234.lrc
+相爱也没关系吗 (사랑해도 괜찮을까)	李时文	http://yinyueshiting.baidu.com/data2/music/124478494/124477546208800320.mp3?xcode=09b1aa925f8278b95990d376263109e0&amp;song_id=124477546	http://music.baidu.com/data2/lrc/124478469/124478469.lrc
+I,I Love You	Esna	http://yinyueshiting.baidu.com/data2/music/124713292/12471265450400320.mp3?xcode=09b1aa925f8278b943e6e1d8249fc792&amp;song_id=124712654	http://music.baidu.com/data2/lrc/124713261/124713261.lrc
+Leaving Las Vegas	Esna	http://yinyueshiting.baidu.com/data2/music/123772245/12377140161200320.mp3?xcode=09b1aa925f8278b919a583210f1a2e09&amp;song_id=123771401	
+Sonata No. 12 In E Minor, Op. 3	Sarah Chang	http://yinyueshiting.baidu.com/data2/music/121048095/2687755241200320.mp3?xcode=09b1aa925f8278b9b169a51e193c0fa9&amp;song_id=2687755	
+21 Hungarian Dances: No. 1 In G Minor	Sarah Chang	http://yinyueshiting.baidu.com/data2/music/121043634/268778382800320.mp3?xcode=09b1aa925f8278b96a37d80a2c02fc5b&amp;song_id=2687783	
+Nocturne No.20 In C Sharp Minor.Op.Post.	Sarah Chang	http://yinyueshiting.baidu.com/data2/music/238567142/2687756244800320.mp3?xcode=09b1aa925f8278b91e0a87f01dbb9fb5&amp;song_id=2687756	
+Nocturne, Op. 51, No. 3	Sarah Chang	http://yinyueshiting.baidu.com/data2/music/121047472/268763257600320.mp3?xcode=09b1aa925f8278b9718197b4a0f16666&amp;song_id=2687632	
+Violin Sonata Op. 18 In E Flat Major: Ii    Improvisation. Andante Cantabile	Sarah Chang	http://yinyueshiting.baidu.com/data2/music/121038220/262838382800320.mp3?xcode=09b1aa925f8278b9c9bf3d409e407d1c&amp;song_id=2628383	
+Chaconne In G Minor	Sarah Chang	http://yinyueshiting.baidu.com/data2/music/121044011/268756575600320.mp3?xcode=09b1aa925f8278b9766f476e85847328&amp;song_id=2687565	
+On The Wings Of Song Op. 34 No. 2	Sarah Chang	http://yinyueshiting.baidu.com/data2/music/121041753/2925931241200320.mp3?xcode=09b1aa925f8278b98c3c42cb27c397d9&amp;song_id=2925931	
+Salut d&#039;amour Op.12	Sarah Chang	http://yinyueshiting.baidu.com/data2/music/121045175/8107628244800320.mp3?xcode=09b1aa925f8278b92a1779a2a81a9c08&amp;song_id=8107628	
+Nice Body (Inst.)	孝敏	http://yinyueshiting.baidu.com/data2/music/128441256/12842354693600320.mp3?xcode=09b1aa925f8278b9180b9e6dd2675aac&amp;song_id=128423546	
+假装 (척했어)	孝敏	http://yinyueshiting.baidu.com/data2/music/128441162/12842353968400320.mp3?xcode=09b1aa925f8278b9223d24c5de246011&amp;song_id=128423539	
+담 (談,膽)	孝敏	http://yinyueshiting.baidu.com/data2/music/128441338/12842354175600320.mp3?xcode=09b1aa925f8278b905ffee87c3adb48c&amp;song_id=128423541	
+假装 (척했어)(Inst.)	孝敏	http://yinyueshiting.baidu.com/data2/music/128441161/128423548100800320.mp3?xcode=09b1aa925f8278b905ffee87c3adb48c&amp;song_id=128423548	
+梦想女神	高娜恩	http://yinyueshiting.baidu.com/data2/music/130815044/130814324158400320.mp3?xcode=09b1aa925f8278b908a65907a49a17b0&amp;song_id=130814324	http://music.baidu.com/data2/lrc/130814343/130814343.lrc
+Sweet Girl	LE (EXID)	http://yinyueshiting.baidu.com/data2/music/121178213/121177986151200320.mp3?xcode=09b1aa925f8278b938b319dd5c3c046e&amp;song_id=121177986	http://music.baidu.com/data2/lrc/121177980/121177980.lrc
+Morning Of Canon (캐논의 아침)	白娥娟	http://yinyueshiting.baidu.com/data2/music/121371811/12137135257600320.mp3?xcode=09b1aa925f8278b95342a3548728ab76&amp;song_id=121371352	http://music.baidu.com/data2/lrc/121371336/121371336.lrc
+Morning Of Canon (Inst.)(캐논의 아침)	白娥娟	http://yinyueshiting.baidu.com/data2/music/121371795/12137171154000320.mp3?xcode=09b1aa925f8278b9f5d44a3a1acfff98&amp;song_id=121371711	
+싫어도 사랑해 (Hiphop Ver.)(Inst.)	DooBoo	http://yinyueshiting.baidu.com/data2/music/241701610/241701544230400320.mp3?xcode=09b1aa925f8278b9b59adc403ebeee44&amp;song_id=241701544	
+제발 좀...	주형	http://yinyueshiting.baidu.com/data2/music/241718239/241718168201600320.mp3?xcode=09b1aa925f8278b9c70098e904ce32a9&amp;song_id=241718168	http://music.baidu.com/data2/lrc/241718169/241718169.lrc
+AIA	주형	http://yinyueshiting.baidu.com/data2/music/241718852/241718797133200320.mp3?xcode=09b1aa925f8278b9cc3224dc97e4d7a9&amp;song_id=241718797	http://music.baidu.com/data2/lrc/241718798/241718798.lrc
+Pet	Stella Jang	http://yinyueshiting.baidu.com/data2/music/241719085/24171892782800320.mp3?xcode=09b1aa925f8278b95fa4084c7da1aa86&amp;song_id=241718927	http://music.baidu.com/data2/lrc/241718928/241718928.lrc
+4月的夜晚空气 (4월의 밤공기)	루엘	http://yinyueshiting.baidu.com/data2/music/241820336/24182021318000320.mp3?xcode=09b1aa925f8278b90c0d8753917afb85&amp;song_id=241820213	http://music.baidu.com/data2/lrc/241820216/241820216.lrc
+4月的夜晚空气 (4월의 밤공기)(Inst.)	루엘	http://yinyueshiting.baidu.com/data2/music/241820441/241820243126000320.mp3?xcode=09b1aa925f8278b9794b86d808232fc4&amp;song_id=241820243	
+不错的女人 (괜찮은 여자)	호란	http://yinyueshiting.baidu.com/data2/music/241937249/241845044244800320.mp3?xcode=09b1aa925f8278b9b74cd3784244547c&amp;song_id=241845044	http://music.baidu.com/data2/lrc/241937234/241937234.lrc
+댄싱쓰루 (Dancing Through)	호란	http://yinyueshiting.baidu.com/data2/music/241937267/241845234151200320.mp3?xcode=09b1aa925f8278b9e9c5304b21fec782&amp;song_id=241845234	http://music.baidu.com/data2/lrc/241937239/241937239.lrc
+艺人 (연예인)	호란	http://yinyueshiting.baidu.com/data2/music/241937261/241845158136800320.mp3?xcode=09b1aa925f8278b990032d54ecb07301&amp;song_id=241845158	http://music.baidu.com/data2/lrc/241937238/241937238.lrc
+Favorite Nightmare	호란	http://yinyueshiting.baidu.com/data2/music/241937286/241845311169200320.mp3?xcode=09b1aa925f8278b9c6826868de970894&amp;song_id=241845311	http://music.baidu.com/data2/lrc/241937244/241937244.lrc
+花粉 (꽃가루)	호란	http://yinyueshiting.baidu.com/data2/music/241845538/24184535879200320.mp3?xcode=09b1aa925f8278b99614b4474386abae&amp;song_id=241845358	http://music.baidu.com/data2/lrc/241937247/241937247.lrc
+Insomnia	호란	http://yinyueshiting.baidu.com/data2/music/241937266/24184527021600320.mp3?xcode=09b1aa925f8278b926d7084657a59bf4&amp;song_id=241845270	http://music.baidu.com/data2/lrc/241937240/241937240.lrc
+멜로디레시피 (Melody Recipe)	나래	http://yinyueshiting.baidu.com/data2/music/241926324/241926248201600320.mp3?xcode=09b1aa925f8278b948ae5c20176c0886&amp;song_id=241926248	http://music.baidu.com/data2/lrc/241926249/241926249.lrc
+멜로디레시피 (Melody Recipe)(Inst.)	나래	http://yinyueshiting.baidu.com/data2/music/241926335/24192626814400320.mp3?xcode=09b1aa925f8278b9c7d4e558c0a93524&amp;song_id=241926268	
+外遇的好日子 (바람피기 좋은 날)(feat. Woney)	이아람	http://yinyueshiting.baidu.com/data2/music/241960539/24196033968400320.mp3?xcode=09b1aa925f8278b9e977ca24e3730051&amp;song_id=241960339	http://music.baidu.com/data2/lrc/241960340/241960340.lrc
+外遇的好日子 (바람피기 좋은 날)(Inst.)	이아람	http://yinyueshiting.baidu.com/data2/music/241960603/241960351111600320.mp3?xcode=09b1aa925f8278b9d1fcd5f6c50b1ab0&amp;song_id=241960351	
+Love x3	파스텔라운지	http://yinyueshiting.baidu.com/data2/music/241961818/24196177761200320.mp3?xcode=09b1aa925f8278b90c486914f0acd7b6&amp;song_id=241961777	http://music.baidu.com/data2/lrc/241961778/241961778.lrc
+Love x3 (Inst.)	파스텔라운지	http://yinyueshiting.baidu.com/data2/music/241961829/24196178797200320.mp3?xcode=09b1aa925f8278b9bd5cc648288db746&amp;song_id=241961787	
+我的眼泪道出 (내 눈물이 말하잖아)	殷嘉恩	http://yinyueshiting.baidu.com/data2/music/241995973/241995803212400320.mp3?xcode=09b1aa925f8278b9554bf4edd997f8d2&amp;song_id=241995803	http://music.baidu.com/data2/lrc/241995804/241995804.lrc
+我的眼泪道出 (내 눈물이 말하잖아)	殷嘉恩	http://yinyueshiting.baidu.com/data2/music/242003356/24200310664800320.mp3?xcode=09b1aa925f8278b9c85f964b2abbb8a2&amp;song_id=242003106	http://music.baidu.com/data2/lrc/242003645/242003645.lrc
+我的眼泪道出 (내 눈물이 말하잖아)(Inst.)	殷嘉恩	http://yinyueshiting.baidu.com/data2/music/241995991/24199583879200320.mp3?xcode=09b1aa925f8278b9ec0a60cf41a4a187&amp;song_id=241995838	
+내게도 그것이 있다면 (If I Had)	남수림	http://yinyueshiting.baidu.com/data2/music/241996310/241996212129600320.mp3?xcode=fe52a73b08daadfe2b8f63f9ac723f36&amp;song_id=241996212	http://music.baidu.com/data2/lrc/241996213/241996213.lrc
+无论何时 (언제라도)(Inst.)	Ruamin	http://yinyueshiting.baidu.com/data2/music/242136112/242136035126000320.mp3?xcode=fe52a73b08daadfe7ddf74b1a6ef6955&amp;song_id=242136035	
+无论何时 (언제라도)	Ruamin	http://yinyueshiting.baidu.com/data2/music/242136102/24213600414400320.mp3?xcode=fe52a73b08daadfe539f0e82e788ec87&amp;song_id=242136004	http://music.baidu.com/data2/lrc/242136006/242136006.lrc
+每天不同的眼泪 (매일 다른 눈물이)	손승연	http://yinyueshiting.baidu.com/data2/music/119392484/11939099982800320.mp3?xcode=fe52a73b08daadfe84da5601d869449c&amp;song_id=119390999	http://music.baidu.com/data2/lrc/119391139/119391139.lrc
+Blue Knight	Risso	http://yinyueshiting.baidu.com/data2/music/242194362/242194220158400320.mp3?xcode=fe52a73b08daadfe6f333bb99c6701d9&amp;song_id=242194220	http://music.baidu.com/data2/lrc/242194687/242194687.lrc
+坏人 (나쁜놈)	Risso	http://yinyueshiting.baidu.com/data2/music/242194363/242194221162000320.mp3?xcode=fe52a73b08daadfe350a5c038dd045b5&amp;song_id=242194221	http://music.baidu.com/data2/lrc/242194718/242194718.lrc
+OMG	Risso	http://yinyueshiting.baidu.com/data2/music/242194361/242194216144000320.mp3?xcode=fe52a73b08daadfe2bb21879f3eb947d&amp;song_id=242194216	http://music.baidu.com/data2/lrc/242194331/242194331.lrc
+五个小时 (다섯시간)	Risso	http://yinyueshiting.baidu.com/data2/music/242194366/242194219154800320.mp3?xcode=fe52a73b08daadfea0cc505dc0621a48&amp;song_id=242194219	http://music.baidu.com/data2/lrc/242194538/242194538.lrc
+교정기 (Feels Like You)	Risso	http://yinyueshiting.baidu.com/data2/music/242194360/242194218151200320.mp3?xcode=fe52a73b08daadfea0cc505dc0621a48&amp;song_id=242194218	http://music.baidu.com/data2/lrc/242194395/242194395.lrc
+Lovely해	尹普美	http://yinyueshiting.baidu.com/data2/music/242235347/242209860216000320.mp3?xcode=fe52a73b08daadfebdfb5657fcf2438e&amp;song_id=242209860	http://music.baidu.com/data2/lrc/242235285/242235285.lrc
+Lovely해 (Acoustic Ver.)(Inst.)	尹普美	http://yinyueshiting.baidu.com/data2/music/242210216/24221002428800320.mp3?xcode=fe52a73b08daadfe52d17b2d9b423fd1&amp;song_id=242210024	
+Lovely해 (Acoustic Ver.)	尹普美	http://yinyueshiting.baidu.com/data2/music/242210070/242209925190800320.mp3?xcode=fe52a73b08daadfe25903e2d9e216d08&amp;song_id=242209925	http://music.baidu.com/data2/lrc/242235356/242235356.lrc
+lovely해 (Inst.)	尹普美	http://yinyueshiting.baidu.com/data2/music/242210143/242209985147600320.mp3?xcode=fe52a73b08daadfe25903e2d9e216d08&amp;song_id=242209985	
+母亲 (어머니)	金恩儿	http://yinyueshiting.baidu.com/data2/music/242215052/242214949133200320.mp3?xcode=fe52a73b08daadfe0fd1a9e14bd081d7&amp;song_id=242214949	http://music.baidu.com/data2/lrc/242214950/242214950.lrc
+祝福 (축복하노라)	金恩儿	http://yinyueshiting.baidu.com/data2/music/242215308/242215239140400320.mp3?xcode=fe52a73b08daadfeb50a78e8b32aeef1&amp;song_id=242215239	http://music.baidu.com/data2/lrc/242215240/242215240.lrc
+想你的365天	张力尹	http://yinyueshiting.baidu.com/data2/music/128399877/12838551954000320.mp3?xcode=fe52a73b08daadfed7984b79751f9d39&amp;song_id=128385519	
+爱的独白	张力尹	http://yinyueshiting.baidu.com/data2/music/128401158/128385684129600320.mp3?xcode=fe52a73b08daadfe766f476e85847328&amp;song_id=128385684	
+心中的玫瑰	张力尹	http://yinyueshiting.baidu.com/data2/music/116755727/116615840115200320.mp3?xcode=fe52a73b08daadfe05ffee87c3adb48c&amp;song_id=116615840	http://music.baidu.com/data2/lrc/116755689/116755689.lrc
+Sex Object	Maya	http://yinyueshiting.baidu.com/data2/music/3354703/286049214400320.mp3?xcode=fea56e800f7a6eab37ff48ca31f559c2&amp;song_id=2860492	
+我在笑 (내가 웃고 있어요)	佳仁	http://yinyueshiting.baidu.com/data2/music/122177526/122159358194400320.mp3?xcode=fea56e800f7a6eabb123be2e4a685e68&amp;song_id=122159358	http://music.baidu.com/data2/lrc/122177304/122177304.lrc
+진실 혹은 대담	佳仁	http://yinyueshiting.baidu.com/data2/music/238667188/114439439169200320.mp3?xcode=fea56e800f7a6eab9d88bb873c3ec0e5&amp;song_id=114439439	
+팅커벨 (Tinkerbell)	佳仁	http://yinyueshiting.baidu.com/data2/music/238669396/5570007436000320.mp3?xcode=fea56e800f7a6eab26bdb4a8ac0cec0f&amp;song_id=55700074	http://music.baidu.com/data2/lrc/238669495/238669495.lrc
+绽放 (피어나)	佳仁	http://yinyueshiting.baidu.com/data2/music/238669435/55700103140400320.mp3?xcode=fea56e800f7a6eabb4504f1dc3711450&amp;song_id=55700103	http://music.baidu.com/data2/lrc/238669825/238669825.lrc
+A Tempo	佳仁	http://yinyueshiting.baidu.com/data2/music/238668674/116671870165600320.mp3?xcode=fea56e800f7a6eab3d7cab37c0a62272&amp;song_id=116671870	http://music.baidu.com/data2/lrc/238668642/238668642.lrc
+遇见她 (그녀를 만나)	佳仁	http://yinyueshiting.baidu.com/data2/music/238669411/5570000132400320.mp3?xcode=fea56e800f7a6eab265fb8d128cb5641&amp;song_id=55700001	http://music.baidu.com/data2/lrc/238669630/238669630.lrc
+Q&amp;A	佳仁	http://yinyueshiting.baidu.com/data2/music/114439506/114439460244800320.mp3?xcode=fea56e800f7a6eab0e36f2067d58dcad&amp;song_id=114439460	
+视线 (시선)	佳仁	http://yinyueshiting.baidu.com/data2/music/238669480/55700038165600320.mp3?xcode=fea56e800f7a6eab23407a79428c3f0f&amp;song_id=55700038	http://music.baidu.com/data2/lrc/238669834/238669834.lrc
+Fxxk U	佳仁	http://yinyueshiting.baidu.com/data2/music/114439495/114439445190800320.mp3?xcode=fea56e800f7a6eab7ed60eb536e08c87&amp;song_id=114439445	http://music.baidu.com/data2/lrc/238667134/238667134.lrc
+폭로	佳仁	http://yinyueshiting.baidu.com/data2/music/238667450/11443948368400320.mp3?xcode=fea56e800f7a6eabdcd0b1435228577d&amp;song_id=114439483	
+Black &amp; White	佳仁	http://yinyueshiting.baidu.com/data2/music/238667193/11443946918000320.mp3?xcode=fea56e800f7a6eab8e84979b09d702df&amp;song_id=114439469	
+爱那一句话 (사랑 그 한마디)	太妍 (少女时代)	http://yinyueshiting.baidu.com/data2/music/121375283/120794323241200320.mp3?xcode=fea56e800f7a6eab7e919dd56dd3c83c&amp;song_id=120794323	http://music.baidu.com/data2/lrc/120795963/120795963.lrc
+爱那一句话 (inst.)(사랑 그 한마디)	太妍 (少女时代)	http://yinyueshiting.baidu.com/data2/music/120795966/12079434872000320.mp3?xcode=fea56e800f7a6eabcc3224dc97e4d7a9&amp;song_id=120794348	
+爱那一句话 (사랑 그 한마디)	太妍 (少女时代)	http://yinyueshiting.baidu.com/data2/music/121377921/121375000230400320.mp3?xcode=fea56e800f7a6eabb74cd3784244547c&amp;song_id=121375000	http://music.baidu.com/data2/lrc/121374999/121374999.lrc
+躺下 (누워)(feat. 로꼬)	Gummy	http://yinyueshiting.baidu.com/data2/music/120878965/120878958108000320.mp3?xcode=fea56e800f7a6eabc6826868de970894&amp;song_id=120878958	http://music.baidu.com/data2/lrc/120878956/120878956.lrc
+现在幸福吧 (지금 행복하세요)	Gummy	http://yinyueshiting.baidu.com/data2/music/120878983/120878917219600320.mp3?xcode=fea56e800f7a6eab9614b4474386abae&amp;song_id=120878917	http://music.baidu.com/data2/lrc/120878916/120878916.lrc
+间隙 (틈)	昭宥	http://yinyueshiting.baidu.com/data2/music/123514545/123514450122400320.mp3?xcode=fea56e800f7a6eab26d7084657a59bf4&amp;song_id=123514450	http://music.baidu.com/data2/lrc/131704185/131704185.lrc
+小丑在对着我们微笑 (삐에로는 우릴 보고 웃지)	IU	http://yinyueshiting.baidu.com/data2/music/119832344/119831872144000320.mp3?xcode=fea56e800f7a6eab48ae5c20176c0886&amp;song_id=119831872	http://music.baidu.com/data2/lrc/120025752/120025752.lrc
+꿍따리 샤바라 (Kungtari Shabara)	IU	http://yinyueshiting.baidu.com/data2/music/119832374/119831891212400320.mp3?xcode=fea56e800f7a6eabc7d4e558c0a93524&amp;song_id=119831891	http://music.baidu.com/data2/lrc/120025886/120025886.lrc
+昭格洞 (소격동)	IU	http://yinyueshiting.baidu.com/data2/music/123764073/12376406382800320.mp3?xcode=fea56e800f7a6eab39ce60c9b3abe9ef&amp;song_id=123764063	http://music.baidu.com/data2/lrc/131701266/131701266.lrc
+我的老故事 (나의 옛날이야기)	IU	http://yinyueshiting.baidu.com/data2/music/119832376/119831864115200320.mp3?xcode=fea56e800f7a6eabed47f60d337fa3fd&amp;song_id=119831864	http://music.baidu.com/data2/lrc/120025695/120025695.lrc
+花 (꽃)	IU	http://yinyueshiting.baidu.com/data2/music/119832352/119831868129600320.mp3?xcode=fea56e800f7a6eab31189f16455400eb&amp;song_id=119831868	http://music.baidu.com/data2/lrc/120025709/120025709.lrc
+每个人都有秘密 (누구나 비밀은 있다)	IU	http://yinyueshiting.baidu.com/data2/music/118254401/87967985147600320.mp3?xcode=fea56e800f7a6eabe977ca24e3730051&amp;song_id=87967985	
+Why	BIN	http://yinyueshiting.baidu.com/data2/music/3356618/2861702223200320.mp3?xcode=e78ffd400ba5f6fee4d6351b3c1b445d&amp;song_id=2861702	
+她和我 (그대 그리고 나)	朴正炫	http://yinyueshiting.baidu.com/data2/music/121984967/12152565375600320.mp3?xcode=e78ffd400ba5f6fe5990d376263109e0&amp;song_id=121525653	http://music.baidu.com/data2/lrc/121984961/121984961.lrc
+无人岛 (무인도)	朴正炫	http://yinyueshiting.baidu.com/data2/music/241846322/241846183198000320.mp3?xcode=e78ffd400ba5f6fe43e6e1d8249fc792&amp;song_id=241846183	http://music.baidu.com/data2/lrc/241846184/241846184.lrc
+千日之间 (천일동안)	朴正炫	http://yinyueshiting.baidu.com/data2/music/241822031/241821906151200320.mp3?xcode=e78ffd400ba5f6fe06d3b5c82f9312a3&amp;song_id=241821906	http://music.baidu.com/data2/lrc/241821907/241821907.lrc
+Double Kiss	朴正炫	http://yinyueshiting.baidu.com/data2/music/120996281/120996203212400320.mp3?xcode=e78ffd400ba5f6fe9824035d6041d0a0&amp;song_id=120996203	http://music.baidu.com/data2/lrc/120996201/120996201.lrc
+第二年 (그 다음해)	朴正炫	http://yinyueshiting.baidu.com/data2/music/120996252/120996248115200320.mp3?xcode=e78ffd400ba5f6feafe7b73b41f866fe&amp;song_id=120996248	http://music.baidu.com/data2/lrc/120996246/120996246.lrc
+她和我 (Inst.)(그대 그리고 나)	朴正炫	http://yinyueshiting.baidu.com/data2/music/121525668/121525665118800320.mp3?xcode=e78ffd400ba5f6fe4394f800f7f2550e&amp;song_id=121525665	
+Dream Sphere	朴正炫	http://yinyueshiting.baidu.com/data2/music/120996253/12099623154000320.mp3?xcode=e78ffd400ba5f6fe4394f800f7f2550e&amp;song_id=120996231	http://music.baidu.com/data2/lrc/120996229/120996229.lrc
+第二年 (그 다음해)	朴正炫	http://yinyueshiting.baidu.com/data2/music/119392528/119390594180000320.mp3?xcode=e78ffd400ba5f6fe2c25efac0ddd93cf&amp;song_id=119390594	http://music.baidu.com/data2/lrc/119391216/119391216.lrc
+Latinas	Zion	http://yinyueshiting.baidu.com/data2/music/9603287/806235021600320.mp3?xcode=e78ffd400ba5f6fe1e0a87f01dbb9fb5&amp;song_id=8062350	
+Ronca	Zion	http://yinyueshiting.baidu.com/data2/music/10991830/856621139600320.mp3?xcode=e78ffd400ba5f6fe718197b4a0f16666&amp;song_id=8566211	
+Amor	Zion	http://yinyueshiting.baidu.com/data2/music/12003741/2247167169200320.mp3?xcode=e78ffd400ba5f6fec9bf3d409e407d1c&amp;song_id=2247167	http://music.baidu.com/data2/lrc/12481209/12481209.lrc
+Cuarto Nivel	Zion	http://yinyueshiting.baidu.com/data2/music/12003699/1027274814400320.mp3?xcode=e78ffd400ba5f6fe766f476e85847328&amp;song_id=10272748	
+La Neta	Zion	http://yinyueshiting.baidu.com/data2/music/12003727/1027274918000320.mp3?xcode=e78ffd400ba5f6fe8c3c42cb27c397d9&amp;song_id=10272749	
+Hagamos El Amor	Zion	http://yinyueshiting.baidu.com/data2/music/12003652/102727467200320.mp3?xcode=e78ffd400ba5f6fe2a1779a2a81a9c08&amp;song_id=10272746	
+Your Body	Zion	http://yinyueshiting.baidu.com/data2/music/12003671/1027274710800320.mp3?xcode=e78ffd400ba5f6fe3cbb1604e4436b22&amp;song_id=10272747	http://music.baidu.com/data2/lrc/12622814/12622814.lrc
+The Way She Moves	Zion	http://yinyueshiting.baidu.com/data2/music/12003609/102727440320.mp3?xcode=e78ffd400ba5f6fe180b9e6dd2675aac&amp;song_id=10272744	http://music.baidu.com/data2/lrc/12622813/12622813.lrc
+Amor De Pobre	Zion	http://yinyueshiting.baidu.com/data2/music/12003622/102727453600320.mp3?xcode=e78ffd400ba5f6fe223d24c5de246011&amp;song_id=10272745	
+Zun Da Da	Zion	http://yinyueshiting.baidu.com/data2/music/12003574/2247180216000320.mp3?xcode=e78ffd400ba5f6fe05ffee87c3adb48c&amp;song_id=2247180	
+Tu Principe	Zion	http://yinyueshiting.baidu.com/data2/music/9498379/8521484244800320.mp3?xcode=e78ffd400ba5f6fe85429371225e2601&amp;song_id=8521484	
+Fantasma	Zion	http://yinyueshiting.baidu.com/data2/music/12003758/2247171183600320.mp3?xcode=e78ffd400ba5f6fe08a65907a49a17b0&amp;song_id=2247171	
+Oh Mami	Zion	http://yinyueshiting.baidu.com/data2/music/12003636/2247162151200320.mp3?xcode=e78ffd400ba5f6fe38b319dd5c3c046e&amp;song_id=2247162	
+Habre La Puerta	Zion	http://yinyueshiting.baidu.com/data2/music/12003597/2247172187200320.mp3?xcode=e78ffd400ba5f6fe37ff48ca31f559c2&amp;song_id=2247172	
+Money	Zion	http://yinyueshiting.baidu.com/data2/music/12003715/2247175198000320.mp3?xcode=e78ffd400ba5f6fe37ff48ca31f559c2&amp;song_id=2247175	http://music.baidu.com/data2/lrc/12481211/12481211.lrc
+Periodico De Ayer	Zion	http://yinyueshiting.baidu.com/data2/music/12003749/2247176201600320.mp3?xcode=e78ffd400ba5f6fe6b73a0f684021956&amp;song_id=2247176	
+Te Vas	Zion	http://yinyueshiting.baidu.com/data2/music/12003687/2247178208800320.mp3?xcode=e78ffd400ba5f6feb123be2e4a685e68&amp;song_id=2247178	http://music.baidu.com/data2/lrc/12481212/12481212.lrc
+Besame	Zion	http://yinyueshiting.baidu.com/data2/music/12003663/2247168172800320.mp3?xcode=e78ffd400ba5f6fed1823dca873f4874&amp;song_id=2247168	
+Me Arrepiento	Zion	http://yinyueshiting.baidu.com/data2/music/9487316/8515058180000320.mp3?xcode=e78ffd400ba5f6fe9d88bb873c3ec0e5&amp;song_id=8515058	http://music.baidu.com/data2/lrc/12581041/12581041.lrc
+Sigue Ahi	Zion	http://yinyueshiting.baidu.com/data2/music/11828064/10259852244800320.mp3?xcode=e78ffd400ba5f6fe35dc224202a6daff&amp;song_id=10259852	
+Let Me In	Zion	http://yinyueshiting.baidu.com/data2/music/3297582/280116621600320.mp3?xcode=e78ffd400ba5f6fe26bdb4a8ac0cec0f&amp;song_id=2801166	http://music.baidu.com/data2/lrc/12677952/12677952.lrc
+Dos Jueyes	Zion	http://yinyueshiting.baidu.com/data2/music/9484742/7926384172800320.mp3?xcode=e78ffd400ba5f6feb4504f1dc3711450&amp;song_id=7926384	
+神气十足 (보란 듯이)	Zia	http://yinyueshiting.baidu.com/data2/music/123063921/123063831226800320.mp3?xcode=e78ffd400ba5f6fe84b505fb6b038464&amp;song_id=123063831	http://music.baidu.com/data2/lrc/123063829/123063829.lrc
+神气十足 (보란 듯이)(Inst.)	Zia	http://yinyueshiting.baidu.com/data2/music/123063894/123063884158400320.mp3?xcode=e78ffd400ba5f6fee23725bcf113dbcd&amp;song_id=123063884	
+I Like	泫雅	http://yinyueshiting.baidu.com/data2/music/123065761/95836527226800320.mp3?xcode=e78ffd400ba5f6fe23407a79428c3f0f&amp;song_id=95836527	http://music.baidu.com/data2/lrc/239134892/239134892.lrc
+A Talk	泫雅	http://yinyueshiting.baidu.com/data2/music/121952765/121927599226800320.mp3?xcode=e78ffd400ba5f6fe7ed60eb536e08c87&amp;song_id=121927599	http://music.baidu.com/data2/lrc/121952670/121952670.lrc
+红 (빨개요)	泫雅	http://yinyueshiting.baidu.com/data2/music/121952778/12192762872000320.mp3?xcode=e78ffd400ba5f6fe58a651629ec11350&amp;song_id=121927628	http://music.baidu.com/data2/lrc/121952711/121952711.lrc
+I Like (Feat. Flowsik Of Aziatix)	泫雅	http://yinyueshiting.baidu.com/data2/music/239135236/95768679140400320.mp3?xcode=e78ffd400ba5f6fe60e85653b43f0cf4&amp;song_id=95768679	http://music.baidu.com/data2/lrc/239135127/239135127.lrc
+French Kiss	泫雅	http://yinyueshiting.baidu.com/data2/music/121952792/1219276093600320.mp3?xcode=e78ffd400ba5f6fe0d9b8f0c677c76d2&amp;song_id=121927609	http://music.baidu.com/data2/lrc/121952691/121952691.lrc
+A Real Man	Ailee	http://yinyueshiting.baidu.com/data2/music/122825707/12282489582800320.mp3?xcode=e78ffd400ba5f6feb6f28ebc1a3b5868&amp;song_id=122824895	http://music.baidu.com/data2/lrc/122893132/122893132.lrc
+잠시 안녕처럼 (Goodbye My Love)	Ailee	http://yinyueshiting.baidu.com/data2/music/122189670/122189602208800320.mp3?xcode=e78ffd400ba5f6fe9e9cdd6067ee2141&amp;song_id=122189602	http://music.baidu.com/data2/lrc/122189634/122189634.lrc
+잠시 안녕처럼 (Goodbye My Love)(Inst.)	Ailee	http://yinyueshiting.baidu.com/data2/music/122189611/122189608230400320.mp3?xcode=e78ffd400ba5f6fe59dc68219d22c373&amp;song_id=122189608	
+想起 (생각나)	徐仁英	http://yinyueshiting.baidu.com/data2/music/124044472/124042814223200320.mp3?xcode=e78ffd400ba5f6fe29676627b54cb918&amp;song_id=124042814	http://music.baidu.com/data2/lrc/124044453/124044453.lrc
+想起 (생각나)(Inst.)	徐仁英	http://yinyueshiting.baidu.com/data2/music/124044470/1240428267200320.mp3?xcode=e78ffd400ba5f6fe29676627b54cb918&amp;song_id=124042826	
+我爱你 (너를 사랑해)	尹美莱	http://yinyueshiting.baidu.com/data2/music/242231032/24223026561200320.mp3?xcode=e78ffd400ba5f6fe5fa4084c7da1aa86&amp;song_id=242230265	http://music.baidu.com/data2/lrc/242230898/242230898.lrc
+记住你和我 (inst.)(너와 나를 기억해)	金宝静	http://yinyueshiting.baidu.com/data2/music/121080496/121079836100800320.mp3?xcode=e78ffd400ba5f6fe794b86d808232fc4&amp;song_id=121079836	
+是大韩民国 (inst.)(대한민국이다)	金宝静	http://yinyueshiting.baidu.com/data2/music/121129793/12107990486400320.mp3?xcode=e78ffd400ba5f6fee9c5304b21fec782&amp;song_id=121079904	
+I Know	金宝静	http://yinyueshiting.baidu.com/data2/music/124478165/124477541190800320.mp3?xcode=e78ffd400ba5f6fee9c5304b21fec782&amp;song_id=124477541	http://music.baidu.com/data2/lrc/124478161/124478161.lrc
+I Know	金宝静	http://yinyueshiting.baidu.com/data2/music/124029867/124028038165600320.mp3?xcode=e78ffd400ba5f6fe90032d54ecb07301&amp;song_id=124028038	http://music.baidu.com/data2/lrc/124029864/124029864.lrc
+Promise	金宝静	http://yinyueshiting.baidu.com/data2/music/123764816/12376476518000320.mp3?xcode=e78ffd400ba5f6fec6826868de970894&amp;song_id=123764765	http://music.baidu.com/data2/lrc/123812520/123812520.lrc
+记住你和我 (너와 나를 기억해)	金宝静	http://yinyueshiting.baidu.com/data2/music/121129863/121079622108000320.mp3?xcode=e78ffd400ba5f6fe9614b4474386abae&amp;song_id=121079622	http://music.baidu.com/data2/lrc/121079588/121079588.lrc
+是大韩民国 (대한민국이다)	金宝静	http://yinyueshiting.baidu.com/data2/music/121129786/121079708158400320.mp3?xcode=e78ffd400ba5f6fec7d4e558c0a93524&amp;song_id=121079708	http://music.baidu.com/data2/lrc/121079705/121079705.lrc
+仲夏夜之蜜 (한여름밤의 꿀)	Raina	http://yinyueshiting.baidu.com/data2/music/121122066/120913890151200320.mp3?xcode=a5c80b966f51776da0d51cfc739c1004&amp;song_id=120913890	http://music.baidu.com/data2/lrc/120950424/120950424.lrc
+레파토리 (repertory)	Raina	http://yinyueshiting.baidu.com/data2/music/123801772/123796903111600320.mp3?xcode=a5c80b966f51776d7ddf74b1a6ef6955&amp;song_id=123796903	http://music.baidu.com/data2/lrc/123801755/123801755.lrc
+知道这是玩笑 (장난인거 알아)	Raina	http://yinyueshiting.baidu.com/data2/music/123801499/123796902108000320.mp3?xcode=a5c80b966f51776d7ddf74b1a6ef6955&amp;song_id=123796902	http://music.baidu.com/data2/lrc/123801457/123801457.lrc
+굿모닝 (Good Morning)	A.T	http://yinyueshiting.baidu.com/data2/music/122176455/122175972129600320.mp3?xcode=a5c80b966f51776d2bb21879f3eb947d&amp;song_id=122175972	http://music.baidu.com/data2/lrc/122176407/122176407.lrc
+Jede Zelle Meines K&ouml;Rpers Ist Gl&uuml;Cklich	Jenny	http://yinyueshiting.baidu.com/data2/music/3328355/283299125200320.mp3?xcode=a5c80b966f51776dee71546b0f38c3ae&amp;song_id=2832991	
+故障的风扇 (고장난 선풍기)	孝琳	http://yinyueshiting.baidu.com/data2/music/124342209/124339246252000320.mp3?xcode=a5c80b966f51776d6b73a0f684021956&amp;song_id=124339246	http://music.baidu.com/data2/lrc/124342206/124342206.lrc
+吵架歌 (Inst.)	Hari	http://yinyueshiting.baidu.com/data2/music/241917049/121265819126000320.mp3?xcode=a5c80b966f51776d9d88bb873c3ec0e5&amp;song_id=121265819	
+吵架歌 (男生K歌版)	Hari	http://yinyueshiting.baidu.com/data2/music/242054330/121257282237600320.mp3?xcode=a5c80b966f51776d9d88bb873c3ec0e5&amp;song_id=121257282	http://music.baidu.com/data2/lrc/121266647/121266647.lrc
+吵架歌 (女生K歌版)	Hari	http://yinyueshiting.baidu.com/data2/music/240910527/12125723672000320.mp3?xcode=a5c80b966f51776d35dc224202a6daff&amp;song_id=121257236	http://music.baidu.com/data2/lrc/240910426/240910426.lrc
+可爱颂2015	Hari	http://yinyueshiting.baidu.com/data2/music/240708445/240701969234000320.mp3?xcode=a5c80b966f51776db4504f1dc3711450&amp;song_id=240701969	http://music.baidu.com/data2/lrc/240701974/240701974.lrc
+呜咽 (울컥)	郑秀晶	http://yinyueshiting.baidu.com/data2/music/134371834/123484069133200320.mp3?xcode=a5c80b966f51776de23725bcf113dbcd&amp;song_id=123484069	http://music.baidu.com/data2/lrc/131702502/131702502.lrc
+呜咽 (울컥)	郑秀晶	http://yinyueshiting.baidu.com/data2/music/124477937/124477526136800320.mp3?xcode=a5c80b966f51776de23725bcf113dbcd&amp;song_id=124477526	http://music.baidu.com/data2/lrc/241654850/241654850.lrc
+花瓣游戏 (꽃잎놀이)	LYn	http://yinyueshiting.baidu.com/data2/music/122115234/122115125104400320.mp3?xcode=a5c80b966f51776d7ed60eb536e08c87&amp;song_id=122115125	http://music.baidu.com/data2/lrc/122115123/122115123.lrc
+花瓣游戏 (Inst.)(꽃잎놀이)	LYn	http://yinyueshiting.baidu.com/data2/music/122115204/122115198108000320.mp3?xcode=a5c80b966f51776d7ed60eb536e08c87&amp;song_id=122115198	
+最初的星光	STAR	http://yinyueshiting.baidu.com/data2/music/121278742/12125557243200320.mp3?xcode=a5c80b966f51776d0d9b8f0c677c76d2&amp;song_id=121255572	http://music.baidu.com/data2/lrc/121255557/121255557.lrc
+雨伞 (우산)	Younha	http://yinyueshiting.baidu.com/data2/music/122147703/121266982165600320.mp3?xcode=a5c80b966f51776db6f28ebc1a3b5868&amp;song_id=121266982	http://music.baidu.com/data2/lrc/122147697/122147697.lrc
+我的心成了什么 (내 마음이 뭐가 돼)(Inst.)	Younha	http://yinyueshiting.baidu.com/data2/music/123797635/123797485133200320.mp3?xcode=a5c80b966f51776db6f28ebc1a3b5868&amp;song_id=123797485	
+我的心成了什么 (내 마음이 뭐가 돼)	Younha	http://yinyueshiting.baidu.com/data2/music/123797577/123797484129600320.mp3?xcode=a5c80b966f51776d9e9cdd6067ee2141&amp;song_id=123797484	http://music.baidu.com/data2/lrc/123800003/123800003.lrc
+괜찮다	Younha	http://yinyueshiting.baidu.com/data2/music/106267270/105319259126000320.mp3?xcode=a5c80b966f51776df5d44a3a1acfff98&amp;song_id=105319259	http://music.baidu.com/data2/lrc/106236434/106236434.lrc
+Bat Girl	Younha	http://yinyueshiting.baidu.com/data2/music/124033699/124031574194400320.mp3?xcode=a5c80b966f51776d59dc68219d22c373&amp;song_id=124031574	http://music.baidu.com/data2/lrc/124033681/124033681.lrc
+雨伞 (Inst.)(우산)	Younha	http://yinyueshiting.baidu.com/data2/music/121266989/121266985176400320.mp3?xcode=a5c80b966f51776d7e919dd56dd3c83c&amp;song_id=121266985	
+뒹굴뒹굴 (inst.)	Yozoh	http://yinyueshiting.baidu.com/data2/music/118953876/118727201234000320.mp3?xcode=a5c80b966f51776d29676627b54cb918&amp;song_id=118727201	
+뒹굴뒹굴	Yozoh	http://yinyueshiting.baidu.com/data2/music/119158272/118726976201600320.mp3?xcode=a5c80b966f51776d85f6fb12ebde0b01&amp;song_id=118726976	http://music.baidu.com/data2/lrc/119158255/119158255.lrc
+恋爱细胞 (연애세포)(Inst.)	宋智恩	http://yinyueshiting.baidu.com/data2/music/242487955/24248781997200320.mp3?xcode=a5c80b966f51776dcc3224dc97e4d7a9&amp;song_id=242487819	
+Janus (Intro.)	宋智恩	http://yinyueshiting.baidu.com/data2/music/123964395/123964393176400320.mp3?xcode=a5c80b966f51776d5fa4084c7da1aa86&amp;song_id=123964393	http://music.baidu.com/data2/lrc/123977356/123977356.lrc
+恋爱细胞 (연애세포)	宋智恩	http://yinyueshiting.baidu.com/data2/music/242487748/242487687140400320.mp3?xcode=a5c80b966f51776d0c0d8753917afb85&amp;song_id=242487687	http://music.baidu.com/data2/lrc/242487688/242487688.lrc
+别盯着看 (쳐다보지마)	宋智恩	http://yinyueshiting.baidu.com/data2/music/123964356/123489640230400320.mp3?xcode=a5c80b966f51776d0c0d8753917afb85&amp;song_id=123489640	http://music.baidu.com/data2/lrc/123495285/123495285.lrc
+La Boum	宋智恩	http://yinyueshiting.baidu.com/data2/music/123964535/123964519111600320.mp3?xcode=a5c80b966f51776d794b86d808232fc4&amp;song_id=123964519	http://music.baidu.com/data2/lrc/123977527/123977527.lrc
+恋爱细胞 (연애세포)(Acoustic Ver.)	宋智恩	http://yinyueshiting.baidu.com/data2/music/242487767/24248772932400320.mp3?xcode=a5c80b966f51776db74cd3784244547c&amp;song_id=242487729	http://music.baidu.com/data2/lrc/242487730/242487730.lrc
+美丽的年纪25岁 (예쁜 나이 25살)	宋智恩	http://yinyueshiting.baidu.com/data2/music/123964471/123964468187200320.mp3?xcode=a5c80b966f51776de9c5304b21fec782&amp;song_id=123964468	http://music.baidu.com/data2/lrc/123977436/123977436.lrc
+星 (별)	宋智恩	http://yinyueshiting.baidu.com/data2/music/123964677/123964668129600320.mp3?xcode=a5c80b966f51776d90032d54ecb07301&amp;song_id=123964668	http://music.baidu.com/data2/lrc/123978127/123978127.lrc
+恋爱细胞 (연애세포)(Acoustic Ver.)(Inst.)	宋智恩	http://yinyueshiting.baidu.com/data2/music/242488007/24248788679200320.mp3?xcode=a5c80b966f51776dc6826868de970894&amp;song_id=242487886	
+Because Of You	朴正雅	http://yinyueshiting.baidu.com/data2/music/121102289/121102158108000320.mp3?xcode=a5c80b966f51776d48ae5c20176c0886&amp;song_id=121102158	http://music.baidu.com/data2/lrc/242225433/242225433.lrc
+Because Of You	朴正雅	http://yinyueshiting.baidu.com/data2/music/242226427/242226416201600320.mp3?xcode=a5c80b966f51776dc7d4e558c0a93524&amp;song_id=242226416	http://music.baidu.com/data2/lrc/242226417/242226417.lrc
+Because of you(Inst.)	朴正雅	http://yinyueshiting.baidu.com/data2/music/121102257/121102231111600320.mp3?xcode=a5c80b966f51776d39ce60c9b3abe9ef&amp;song_id=121102231	
+这个凌晨 (이 새벽에)	美	http://yinyueshiting.baidu.com/data2/music/242214108/242213960201600320.mp3?xcode=c50a94d5c1e141ba9824035d6041d0a0&amp;song_id=242213960	http://music.baidu.com/data2/lrc/242213965/242213965.lrc
+Les (Explicit)	Bo	http://yinyueshiting.baidu.com/data2/music/3036592/262528264800320.mp3?xcode=c50a94d5c1e141bab169a51e193c0fa9&amp;song_id=2625282	http://music.baidu.com/data2/lrc/114602159/114602159.lrc
+해요 말고 해 (A Little Close)	金艺林	http://yinyueshiting.baidu.com/data2/music/122889882/122879623111600320.mp3?xcode=c50a94d5c1e141ba1e0a87f01dbb9fb5&amp;song_id=122879623	http://music.baidu.com/data2/lrc/241268632/241268632.lrc
+室友 (룸메이트)	金艺林	http://yinyueshiting.baidu.com/data2/music/120794974/120794954180000320.mp3?xcode=c50a94d5c1e141ba1e0a87f01dbb9fb5&amp;song_id=120794954	http://music.baidu.com/data2/lrc/120794962/120794962.lrc
+自行车 (자전거)	郑仁	http://yinyueshiting.baidu.com/data2/music/123137183/123001341248400320.mp3?xcode=c50a94d5c1e141ba29676627b54cb918&amp;song_id=123001341	http://music.baidu.com/data2/lrc/123137144/123137144.lrc
+人情味 (사람냄새)	郑仁	http://yinyueshiting.baidu.com/data2/music/123001326/12009680236000320.mp3?xcode=c50a94d5c1e141ba85f6fb12ebde0b01&amp;song_id=120096802	http://music.baidu.com/data2/lrc/240811594/240811594.lrc
+活着 (살다가보면)	郑仁	http://yinyueshiting.baidu.com/data2/music/121264834/12126478946800320.mp3?xcode=c50a94d5c1e141bac70098e904ce32a9&amp;song_id=121264789	http://music.baidu.com/data2/lrc/121264788/121264788.lrc
+像微笑着送我离开的那样一般 (Don&#039;t Cry For Me)	露娜	http://yinyueshiting.baidu.com/data2/music/241978082/2417036427200320.mp3?xcode=c50a94d5c1e141ba794b86d808232fc4&amp;song_id=241703642	http://music.baidu.com/data2/lrc/241734478/241734478.lrc
+现在停止争吵 (이제 그만 싸우자)	郑恩地	http://yinyueshiting.baidu.com/data2/music/121970192/12134299079200320.mp3?xcode=c50a94d5c1e141bab74cd3784244547c&amp;song_id=121342990	http://music.baidu.com/data2/lrc/121969821/121969821.lrc
+短发 (짧은머리)	郑恩地	http://yinyueshiting.baidu.com/data2/music/121343303/121343301162000320.mp3?xcode=c50a94d5c1e141bae9c5304b21fec782&amp;song_id=121343301	http://music.baidu.com/data2/lrc/121343294/121343294.lrc
+키스 앤 크라이 (Inst.)	朴智妍	http://yinyueshiting.baidu.com/data2/music/121940681/121940679140400320.mp3?xcode=c50a94d5c1e141ba90032d54ecb07301&amp;song_id=121940679	
+1分1秒 (1분 1초)	朴智妍	http://yinyueshiting.baidu.com/data2/music/121329745/12132967493600320.mp3?xcode=c50a94d5c1e141bac6826868de970894&amp;song_id=121329674	http://music.baidu.com/data2/lrc/240912952/240912952.lrc
+汝矣岛樱花路 (여의도 벚꽃길)	朴智妍	http://yinyueshiting.baidu.com/data2/music/121329787/121329687140400320.mp3?xcode=c50a94d5c1e141ba9614b4474386abae&amp;song_id=121329687	http://music.baidu.com/data2/lrc/121329686/121329686.lrc
+키스 앤 크라이 (Kiss And Cry)	朴智妍	http://yinyueshiting.baidu.com/data2/music/121953194/121940675126000320.mp3?xcode=c50a94d5c1e141ba26d7084657a59bf4&amp;song_id=121940675	http://music.baidu.com/data2/lrc/121953191/121953191.lrc
+汝矣岛樱花路 (Inst.)(여의도 벚꽃길)	朴智妍	http://yinyueshiting.baidu.com/data2/music/121329741/12132972518000320.mp3?xcode=c50a94d5c1e141ba48ae5c20176c0886&amp;song_id=121329725	
+木偶 (Inst.)(꼭두각시)	朴智妍	http://yinyueshiting.baidu.com/data2/music/121329795/12132973554000320.mp3?xcode=c50a94d5c1e141bac7d4e558c0a93524&amp;song_id=121329735	
+1分1秒 (Inst.)(1분 1초)	朴智妍	http://yinyueshiting.baidu.com/data2/music/121329744/121329710223200320.mp3?xcode=c50a94d5c1e141ba39ce60c9b3abe9ef&amp;song_id=121329710	
+木偶 (꼭두각시)	朴智妍	http://yinyueshiting.baidu.com/data2/music/121329766/121329704201600320.mp3?xcode=c50a94d5c1e141baed47f60d337fa3fd&amp;song_id=121329704	http://music.baidu.com/data2/lrc/121329703/121329703.lrc
+울보 (Crybaby)	申智熏	http://yinyueshiting.baidu.com/data2/music/123137339/12302310146800320.mp3?xcode=c50a94d5c1e141ba31189f16455400eb&amp;song_id=123023101	http://music.baidu.com/data2/lrc/123137333/123137333.lrc
+Get Your Handz Off (Edited) (Feat. Swizz Beatz)	Jin	http://yinyueshiting.baidu.com/data2/music/3407389/291428028800320.mp3?xcode=c50a94d5c1e141baec0a60cf41a4a187&amp;song_id=2914280	http://music.baidu.com/data2/lrc/99204466/99204466.lrc
+Here Now (Edited)	Jin	http://yinyueshiting.baidu.com/data2/music/3407150/291428546800320.mp3?xcode=42840e09aec062db7ddf74b1a6ef6955&amp;song_id=2914285	http://music.baidu.com/data2/lrc/12699252/12699252.lrc
+The Good, The Bad &amp; The Ugly	Jin	http://yinyueshiting.baidu.com/data2/music/3365867/2871334165600320.mp3?xcode=42840e09aec062db539f0e82e788ec87&amp;song_id=2871334	http://music.baidu.com/data2/lrc/2871348/2871348.lrc
+Karaoke Night (Feat. Styles P.)	Jin	http://yinyueshiting.baidu.com/data2/music/3365250/2871923212400320.mp3?xcode=42840e09aec062db539f0e82e788ec87&amp;song_id=2871923	
+Thank You	Jin	http://yinyueshiting.baidu.com/data2/music/3365332/2871245104400320.mp3?xcode=42840e09aec062db86c86b4d2d72cc37&amp;song_id=2871245	http://music.baidu.com/data2/lrc/2871254/2871254.lrc
+Learn Chinese (Clean Radio Edit)	Jin	http://yinyueshiting.baidu.com/data2/music/3411395/291889139600320.mp3?xcode=42840e09aec062dbe4d6351b3c1b445d&amp;song_id=2918891	http://music.baidu.com/data2/lrc/12700053/12700053.lrc
+Peel Off	Jin	http://yinyueshiting.baidu.com/data2/music/135799662/135793975111600320.mp3?xcode=42840e09aec062db350a5c038dd045b5&amp;song_id=135793975	
+C Mon	Jin	http://yinyueshiting.baidu.com/data2/music/3365869/2871267183600320.mp3?xcode=42840e09aec062db350a5c038dd045b5&amp;song_id=2871267	http://music.baidu.com/data2/lrc/12691577/12691577.lrc
+Learn Chinese (Album Version) (Feat. Wyclef Jean)	Jin	http://yinyueshiting.baidu.com/data2/music/3365324/2871346208800320.mp3?xcode=42840e09aec062db2bb21879f3eb947d&amp;song_id=2871346	http://music.baidu.com/data2/lrc/12691601/12691601.lrc
+So Afraid (Album Version) ()	Jin	http://yinyueshiting.baidu.com/data2/music/3012019/256495182800320.mp3?xcode=42840e09aec062dba0cc505dc0621a48&amp;song_id=2564951	http://music.baidu.com/data2/lrc/99242386/99242386.lrc
+Senorita	Jin	http://yinyueshiting.baidu.com/data2/music/3012029/2564996244800320.mp3?xcode=42840e09aec062dbee71546b0f38c3ae&amp;song_id=2564996	http://music.baidu.com/data2/lrc/2565004/2565004.lrc
+Club Song	Jin	http://yinyueshiting.baidu.com/data2/music/3365776/2871480172800320.mp3?xcode=42840e09aec062dbbdfb5657fcf2438e&amp;song_id=2871480	
+I Got A Love (Feat. Kanye West)	Jin	http://yinyueshiting.baidu.com/data2/music/3365242/287173761200320.mp3?xcode=42840e09aec062db25903e2d9e216d08&amp;song_id=2871737	http://music.baidu.com/data2/lrc/12691673/12691673.lrc
+Get Your Handz Off (Main)	Jin	http://yinyueshiting.baidu.com/data2/music/3365238/287150814400320.mp3?xcode=42840e09aec062db25903e2d9e216d08&amp;song_id=2871508	http://music.baidu.com/data2/lrc/70416961/70416961.lrc
+Love Story (Feat. Aja)	Jin	http://yinyueshiting.baidu.com/data2/music/3365783/2871190165600320.mp3?xcode=42840e09aec062dbaca186416cbdae39&amp;song_id=2871190	http://music.baidu.com/data2/lrc/12691563/12691563.lrc
+Cold Outside (Feat. Lyfe)	Jin	http://yinyueshiting.baidu.com/data2/music/3365326/2871191169200320.mp3?xcode=42840e09aec062db0fd1a9e14bd081d7&amp;song_id=2871191	http://music.baidu.com/data2/lrc/12691564/12691564.lrc
+The Come Thru (Album Version) (Feat. Twista)	Jin	http://yinyueshiting.baidu.com/data2/music/3365317/287130664800320.mp3?xcode=42840e09aec062dbb50a78e8b32aeef1&amp;song_id=2871306	http://music.baidu.com/data2/lrc/99199708/99199708.lrc
+Intro / The Signing (Skit)	Jin	http://yinyueshiting.baidu.com/data2/music/3365314/287144857600320.mp3?xcode=42840e09aec062db5990d376263109e0&amp;song_id=2871448	http://music.baidu.com/data2/lrc/64939993/64939993.lrc
+Chinese Beats (Skit)	Jin	http://yinyueshiting.baidu.com/data2/music/3365779/2871413190800320.mp3?xcode=42840e09aec062db43e6e1d8249fc792&amp;song_id=2871413	
+Este Amor Ya No Se Toca	Yuri	http://yinyueshiting.baidu.com/data2/music/3220678/2728325104400320.mp3?xcode=42840e09aec062db223d24c5de246011&amp;song_id=2728325	
+Campana Sobre Campana	Yuri	http://yinyueshiting.baidu.com/data2/music/3007436/2560137118800320.mp3?xcode=42840e09aec062db05ffee87c3adb48c&amp;song_id=2560137	
+Karma Camaleon	Yuri	http://yinyueshiting.baidu.com/data2/music/48849214/2958153118800320.mp3?xcode=42840e09aec062db85429371225e2601&amp;song_id=2958153	
+Tiempos Mejores	Yuri	http://yinyueshiting.baidu.com/data2/music/48846043/295776518000320.mp3?xcode=42840e09aec062db08a65907a49a17b0&amp;song_id=2957765	
+Piedad	Yuri	http://yinyueshiting.baidu.com/data2/music/48847896/2958015140400320.mp3?xcode=42840e09aec062dbf4316fffb8ff8771&amp;song_id=2958015	
+Dame Un Beso	Yuri	http://yinyueshiting.baidu.com/data2/music/49351010/295814072000320.mp3?xcode=42840e09aec062db38b319dd5c3c046e&amp;song_id=2958140	
+Cuidate Bien	Yuri	http://yinyueshiting.baidu.com/data2/music/48968769/2958103198000320.mp3?xcode=42840e09aec062db37ff48ca31f559c2&amp;song_id=2958103	
+Tonto	Yuri	http://yinyueshiting.baidu.com/data2/music/48845889/2957735169200320.mp3?xcode=42840e09aec062db6b73a0f684021956&amp;song_id=2957735	
+Amores Clandestinos	Yuri	http://yinyueshiting.baidu.com/data2/music/48850617/29582667200320.mp3?xcode=42840e09aec062dbb123be2e4a685e68&amp;song_id=2958266	
+Vivir Sin Ti	Yuri	http://yinyueshiting.baidu.com/data2/music/48846362/295770250400320.mp3?xcode=42840e09aec062dbd1823dca873f4874&amp;song_id=2957702	
+La Bamba	Yuri	http://yinyueshiting.baidu.com/data2/music/3033265/2615932100800320.mp3?xcode=42840e09aec062db9d88bb873c3ec0e5&amp;song_id=2615932	http://music.baidu.com/data2/lrc/12498988/12498988.lrc
+Me Has Echado Al Olvido	Yuri	http://yinyueshiting.baidu.com/data2/music/3154749/261598532400320.mp3?xcode=42840e09aec062db35dc224202a6daff&amp;song_id=2615985	
+Salvemos Nuestro Amor	Yuri	http://yinyueshiting.baidu.com/data2/music/3154698/2616019154800320.mp3?xcode=42840e09aec062db26bdb4a8ac0cec0f&amp;song_id=2616019	
+Ya No Me Ames	Yuri	http://yinyueshiting.baidu.com/data2/music/3154696/261605939600320.mp3?xcode=42840e09aec062dbb4504f1dc3711450&amp;song_id=2616059	
+Si Mi Hijita Linda	Yuri	http://yinyueshiting.baidu.com/data2/music/3033260/2615940129600320.mp3?xcode=42840e09aec062dbf1962d1d1690fc93&amp;song_id=2615940	
+Lo Que Son Las Cosas	Yuri	http://yinyueshiting.baidu.com/data2/music/3154750/2616086136800320.mp3?xcode=42840e09aec062db84b505fb6b038464&amp;song_id=2616086	
+Que Te Pasa	Yuri	http://yinyueshiting.baidu.com/data2/music/3220101/2728428216000320.mp3?xcode=42840e09aec062db3d7cab37c0a62272&amp;song_id=2728428	
+Pepe	Yuri	http://yinyueshiting.baidu.com/data2/music/3033264/2615869133200320.mp3?xcode=42840e09aec062dbe23725bcf113dbcd&amp;song_id=2615869	
+La Pollera Colora	Yuri	http://yinyueshiting.baidu.com/data2/music/3033266/2615898237600320.mp3?xcode=42840e09aec062db265fb8d128cb5641&amp;song_id=2615898	

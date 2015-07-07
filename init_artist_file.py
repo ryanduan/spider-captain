@@ -91,6 +91,6 @@ if __name__ == '__main__':
     for url, filename in url_file_list:
         baidu = BaiduMusic(url)
         artist_list = baidu.get_artist_list()
-        wr = open(filename, 'w')
+        wr = open(filename, 'a+')
         wr.write('\n'.join(artist_list))
         wr.close()

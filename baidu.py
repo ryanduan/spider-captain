@@ -93,7 +93,7 @@ class BaiduMusic(object):
     def get_download_url(self, song):
         body = self.get_html_body(DOWNLOAD.format(song), headers=HEADERS)
         if body is None:
-            return None
+            return None, None, None
         try:
             down_url = re.findall(re_down, body)[0]
             artist_name = re.findall(re_artist_name, body)[0]
